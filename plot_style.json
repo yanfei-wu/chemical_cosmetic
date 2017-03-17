@@ -1,0 +1,58 @@
+{
+  "font.family": "Fjalla One",
+  "font.size": 12.0,
+  "font.weight": "normal",
+  
+  "figure.figsize": ["6", "3"],
+  "figure.titlesize": "x-large",
+  "figure.titleweight": "bold",
+  "figure.dpi": "220",
+  "figure.facecolor": "#f4f4f4",
+  "figure.subplot.left"    : 0.08,
+  "figure.subplot.right"   : 0.95, 
+  "figure.subplot.bottom"  : 0.07,
+  
+  "lines.linewidth": 2.0,
+  "lines.linestyle": "-",
+  "lines.color": "black",
+  "lines.solid_capstyle": "butt",
+  "patch.linewidth": 0.5,
+  "patch.edgecolor": "#f4f4f4",
+
+  "axes.color_cycle": [
+    "#30a2da",
+    "#fc4f30",
+    "#e5ae38",
+    "#6d904f",
+    "#8b8b8b"],
+  "axes.facecolor": "#f4f4f4",
+  "axes.edgecolor":"#C0C0C0",
+  "axes.titlesize": "large",
+  "axes.labelsize": "large",
+  "axes.axisbelow": true,
+  "axes.grid": true,
+  "axes.grid.which": "major",
+  "axes.linewidth": 1.0,
+  "axes.labelpad": 1.0,
+  "axes.xmargin": 0.0,
+  "axes.spines.left": true,
+  "axes.spines.bottom": true,
+  "axes.spines.top": true,
+  "axes.spines.right": true,
+  
+  "grid.linestyle": "-",
+  "grid.linewidth": 0.5,
+  "grid.color": "#cccccc",
+
+  "xtick.labelsize": "x-small",
+  "ytick.labelsize": "x-small",
+  "xtick.major.size": 0,
+  "xtick.minor.size": 0,
+  "ytick.major.size": 0,
+  "ytick.minor.size": 0,
+
+  
+  "svg.embed_char_paths": "path",
+  "savefig.edgecolor": "#f4f4f4",
+  "savefig.facecolor": "#f4f4f4"
+}
